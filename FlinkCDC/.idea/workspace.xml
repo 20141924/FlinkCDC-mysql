@@ -45,6 +45,7 @@
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
@@ -89,9 +90,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="FlinkCDC" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.FlinkSQLCDC" />
+        <item itemvalue="Application.test" />
         <item itemvalue="Application.FlinkTest" />
         <item itemvalue="Application.FlinkCDC2" />
       </list>
@@ -126,7 +135,12 @@
       <workItem from="1656064196430" duration="14073000" />
       <workItem from="1656927370757" duration="8696000" />
       <workItem from="1657866215788" duration="5129000" />
-      <workItem from="1658050738496" duration="6322000" />
+      <workItem from="1658050738496" duration="7518000" />
+      <workItem from="1658993162023" duration="6120000" />
+      <workItem from="1659165584144" duration="587000" />
+      <workItem from="1660113396055" duration="16287000" />
+      <workItem from="1660725045029" duration="311000" />
+      <workItem from="1660727844463" duration="14087000" />
     </task>
     <servers />
   </component>
